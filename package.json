@@ -1,7 +1,7 @@
 {
-  "name": "winston",
+  "name": "exfowinston",
   "description": "A logger for just about everything.",
-  "version": "3.1.0",
+  "version": "1.0.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "Jarrett Cruger <jcrugzz@gmail.com>",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/winstonjs/winston.git"
+    "url": "https://github.com/muffadal53/customwinston.git#customwinston3.1.0"
   },
   "keywords": [
     "winston",
